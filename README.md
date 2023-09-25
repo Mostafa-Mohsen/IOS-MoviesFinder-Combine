@@ -1,4 +1,4 @@
-# Combine-Sample-App
+# SwiftUI-Combine-Sample-App
 This Demo is very simple &amp; easy to understand. This demo includes Movies list screen & Movie detail screen.
 
 # Table of Contents
@@ -10,6 +10,7 @@ This Demo is very simple &amp; easy to understand. This demo includes Movies lis
 
 # Pods
 - Alamofire
+- SDWebImage
 
 # Documentation 
 Combine - https://developer.apple.com/documentation/combine
